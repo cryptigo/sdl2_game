@@ -1,0 +1,5 @@
+/home/cry/dev/sdl2_game/build/CMakeFiles/edit_cache.dir
+/home/cry/dev/sdl2_game/build/CMakeFiles/package_source.dir
+/home/cry/dev/sdl2_game/build/CMakeFiles/rebuild_cache.dir
+/home/cry/dev/sdl2_game/build/CMakeFiles/package.dir
+/home/cry/dev/sdl2_game/build/CMakeFiles/sdl2_game.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cry/dev/sdl2_game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cry/dev/sdl2_game/src -I/home/cry/dev/sdl2_game/include -I/usr/include/SDL2  -g   -o CMakeFiles/sdl2_game.dir/src/main.cpp.o -c /home/cry/dev/sdl2_game/src/main.cpp",
+  "file": "/home/cry/dev/sdl2_game/src/main.cpp"
+}
+]
